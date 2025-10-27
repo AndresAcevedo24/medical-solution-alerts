@@ -11,3 +11,5 @@ Una aplicación móvil dirigido al personal de salud que permite obtener un impa
 •	Formato de tira horaria de la solución.
 El lenguaje de programación para este proyecto es Java, un lenguaje orientado a objetos y actualmente se tiene la estructura de clases, atributos y métodos en el IDE IntelliJ DEA pero se busca migrarlo hacia el IDE Android Studio ofreciendo al usuario una aplicación intuitiva.
 
+Correr código: Se usa lenguaje de programación Java y el IDE IntelliJ IDEA.
+
